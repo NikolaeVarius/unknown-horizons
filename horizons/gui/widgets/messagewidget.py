@@ -30,6 +30,7 @@ from horizons.component.ambientsoundcomponent import AmbientSoundComponent
 from horizons.extscheduler import ExtScheduler
 from horizons.gui.util import load_uh_widget
 from horizons.gui.widgets.imagebutton import ImageButton
+from horizons.i18n import gettext as _
 from horizons.i18n.voice import get_speech_file
 from horizons.scheduler import Scheduler
 from horizons.util.living import LivingObject
